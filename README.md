@@ -1,51 +1,63 @@
-# Leena Dany
+<h1 align="center">Hi, I'm Leena 👋</h1>
 
-Computer Science student at the University of Manchester  
-Interested in backend engineering, distributed systems, and applied AI
-
----
-
-### About
-I enjoy building systems that are **clean, scalable, and understandable**.  
-Most of my work sits at the intersection of **software engineering** and **data-driven systems**, with a focus on learning how real production architectures behave.
+<p align="center">
+  💻 Computer Science @ University of Manchester <br/>
+  ⚙️ Backend • Distributed Systems • Applied AI
+</p>
 
 ---
 
-### Focus Areas
-- Backend & API development  
-- Event-driven and distributed systems  
-- Machine learning for practical applications  
+## ✨ About Me
+I like building things that **work well and make sense**.  
+From backend APIs to event-driven systems, I enjoy understanding how software behaves at scale — not just making it run.
+
+I’m especially interested in **clean architecture**, **system design**, and **real-world ML applications**.
 
 ---
 
-### Tech I Use
-**Languages**  
-Python · JavaScript · HTML/CSS · SystemVerilog · Assembly Code 
-
-**Frameworks / Tools**  
-Flask · FastAPI · Spring Boot · Git · Linux  
-
-**ML / Data**  
-NumPy · pandas · Scikit-learn · Matplotlib
+## 🧭 What I’m Into
+- ⚡ Backend & API development  
+- 🌐 Distributed and event-driven systems  
+- 🤖 Machine learning for practical problems  
 
 ---
 
-### Selected Work
-- **Event-driven microservices** using Kafka and Spring Boot  
-- **Spam classification system** with NLP and 97% accuracy  
-- **Full-stack translation app** integrating external APIs  
+## 🛠️ Tech Stack
 
+### Languages
+🐍 Python · 🌐 JavaScript · 🎨 HTML/CSS · 🧠 SystemVerilog · 🧩 Assembly Language  
+
+### Frameworks & Tools
+🚀 Flask · ⚡ FastAPI · 🍃 Spring Boot · ⚛️ React  
+🧰 Git · 🐧 Linux · 🧑‍💻 VS Code  
+
+### ML / Data
+📊 NumPy · pandas · 🤖 Scikit-learn · 📈 Matplotlib  
 
 ---
 
-### Currently
-- Studying Computer Science (Industrial Placement) at The University of Manchester 
-- Exploring scalable backend systems  
-- Building projects beyond coursework  
+## 🚀 Featured Work
+- 🔄 **Kafka-based microservices** for real-time processing  
+- ✉️ **Spam classifier** using NLP (97% accuracy)  
+- 🌍 **Translation web app** with external APIs + scoring logic  
+
+➡️ See pinned repositories below for details
 
 ---
 
-### Links
-- GitHub → https://github.com/Leena26  
-- LinkedIn → https://www.linkedin.com/in/leena-dany  
+## 🌱 Currently
+- 📚 Studying Computer Science (Industrial Placement) at the University of Manchester  
+- 🧠 Learning how large systems are designed and scaled  
+- 🔧 Building projects outside coursework  
+
 ---
+
+## 🔗 Let’s Connect
+- 💼 LinkedIn → https://www.linkedin.com/in/leena-dany  
+- 🧑‍💻 GitHub → https://github.com/Leena26  
+
+---
+
+<p align="center">
+  <i>Curious. Intentional. Always learning.</i>
+</p>
