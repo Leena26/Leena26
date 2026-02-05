@@ -1,7 +1,7 @@
 <h1 align="center">Hi, I'm Leena 👋</h1>
 
 <p align="center">
-  💻 Computer Science @ University of Manchester <br/>
+  💻 Computer Science @<strong> University of Manchester </strong><br/>
   ⚙️ Backend • Distributed Systems • Applied AI
 </p>
 
