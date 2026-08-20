@@ -1,5 +1,5 @@
 <h1 align="center">Leena Dany</h1>
-<p align="center">CS @ University of Manchester — backend, distributed systems, applied AI</p>
+<p align="center">CS @ University of Manchester - backend, distributed systems, applied AI</p>
 
 <p align="center">
   <a href="https://www.linkedin.com/in/leena-dany"><img src="https://img.shields.io/badge/LinkedIn-0A66C2?style=flat&logo=linkedin&logoColor=white" /></a>
@@ -21,8 +21,7 @@ I'm a Computer Science student at the University of Manchester, currently workin
 - **AI & Machine Learning:** PyTorch, Transformers, RAG (LlamaIndex), Whisper, and Ollama.
 - **Web & Cloud:** Next.js, React, Node.js, Cloudflare R2, Firebase, and Supabase.
 
-### 📌 Featured Projects
-Here are a few repos that I'm proud of:
+### 🚩 Projects I'm proud of:
 
 - [Trading OMS](https://github.com/Leena26/trading-oms) — Java 21/Spring Boot order management system with a Python Flask microservice for VWAP and P&L calculation.
 - **DevCore/DevClaw** — Multi-agent LLM system that converts WhatsApp/Telegram messages into GitHub PRs. Won Best Workflow Innovation at GDG Imperial's Build With AI.
