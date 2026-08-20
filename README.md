@@ -12,16 +12,33 @@
 
 <br/>
 
-<p align="center">
-  <img src="https://img.shields.io/badge/Python-3776AB?style=for-the-badge&logo=python&logoColor=white" />
-  <img src="https://img.shields.io/badge/Java%2FSpring%20Boot-6DB33F?style=for-the-badge&logo=springboot&logoColor=white" />
-  <img src="https://img.shields.io/badge/TypeScript%2FReact-3178C6?style=for-the-badge&logo=typescript&logoColor=white" />
-  <img src="https://img.shields.io/badge/Flask-000000?style=for-the-badge&logo=flask&logoColor=white" />
-  <img src="https://img.shields.io/badge/FastAPI-009688?style=for-the-badge&logo=fastapi&logoColor=white" />
-  <img src="https://img.shields.io/badge/Kafka-231F20?style=for-the-badge&logo=apachekafka&logoColor=white" />
+### 🛠️ Technical Skills
+
+**Languages**
+<p>
+  <img src="https://img.shields.io/badge/Python-FADADD?style=flat&logo=python&logoColor=6C3B3B" />
+  <img src="https://img.shields.io/badge/TypeScript-D4E6F1?style=flat&logo=typescript&logoColor=1B4F72" />
+  <img src="https://img.shields.io/badge/Java-FCE8B2?style=flat&logo=openjdk&logoColor=7D6608" />
 </p>
 
-**Currently:** building a PaddleOCR → LLM receipt extraction pipeline, and leading Women in Tech Connect at UoM.
+**AI & Machine Learning**
+<p>
+  <img src="https://img.shields.io/badge/PyTorch-F5D5E0?style=flat&logo=pytorch&logoColor=8E2A4B" />
+  <img src="https://img.shields.io/badge/Transformers-E6D9F2?style=flat&logo=huggingface&logoColor=5B2C6F" />
+  <img src="https://img.shields.io/badge/RAG%20(LlamaIndex)-D6EAF8?style=flat&logo=llama&logoColor=1B4F72" />
+  <img src="https://img.shields.io/badge/Whisper-D5F5E3?style=flat&logo=openai&logoColor=196F3D" />
+  <img src="https://img.shields.io/badge/Ollama-EAECEE?style=flat&logo=ollama&logoColor=424949" />
+</p>
+
+**Web & Cloud**
+<p>
+  <img src="https://img.shields.io/badge/Next.js-D6DBDF?style=flat&logo=nextdotjs&logoColor=1C2833" />
+  <img src="https://img.shields.io/badge/React-D6EAF8?style=flat&logo=react&logoColor=21618C" />
+  <img src="https://img.shields.io/badge/Node.js-D5F5E3?style=flat&logo=nodedotjs&logoColor=196F3D" />
+  <img src="https://img.shields.io/badge/Cloudflare%20R2-FDEBD0?style=flat&logo=cloudflare&logoColor=A04000" />
+  <img src="https://img.shields.io/badge/Firebase-FCF3CF?style=flat&logo=firebase&logoColor=B7950B" />
+  <img src="https://img.shields.io/badge/Supabase-D5F5E3?style=flat&logo=supabase&logoColor=1D8348" />
+</p>
 
 <br/>
 
