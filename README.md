@@ -1,63 +1,15 @@
-<h1 align="center">Hi, I'm Leena 👋</h1>
+<h1 align="center">Leena Dany</h1>
+<p align="center">CS @ University of Manchester - backend, distributed systems, applied AI</p>
 
 <p align="center">
-  💻 Computer Science @<strong> University of Manchester </strong><br/>
-  ⚙️ Backend • Distributed Systems • Applied AI
+  <a href="https://www.linkedin.com/in/leena-dany"><img src="https://img.shields.io/badge/LinkedIn-0A66C2?style=flat&logo=linkedin&logoColor=white" /></a>
+  <a href="https://github.com/Leena26"><img src="https://img.shields.io/badge/GitHub-181717?style=flat&logo=github&logoColor=white" /></a>
 </p>
 
----
+<br/>
 
-## ✨ About Me
-I like building things that **work well and make sense**.  
-From backend APIs to event-driven systems, I enjoy understanding how software behaves at scale — not just making it run.
+**Stack:** Python · Java/Spring Boot · TypeScript/React · Flask · FastAPI · Kafka
 
-I’m especially interested in **clean architecture**, **system design**, and **real-world ML applications**.
+**Currently:** building a PaddleOCR → LLM receipt extraction pipeline, and leading Women in Tech Connect at UoM.
 
----
-
-## 🧭 What I’m Into
-- ⚡ Backend & API development  
-- 🌐 Distributed and event-driven systems  
-- 🤖 Machine learning for practical problems  
-
----
-
-## 🛠️ Tech Stack
-
-### Languages
-🐍 Python · 🌐 JavaScript · 🎨 HTML/CSS · 🧠 SystemVerilog · 🧩 Assembly Language  
-
-### Frameworks & Tools
-🚀 Flask · ⚡ FastAPI · 🍃 Spring Boot · ⚛️ React  
-🧰 Git · 🐧 Linux · 🧑‍💻 VS Code  
-
-### ML / Data
-📊 NumPy · pandas · 🤖 Scikit-learn · 📈 Matplotlib  
-
----
-
-## 🚀 Featured Work
-- 🔄 **Kafka-based microservices** for real-time processing  
-- ✉️ **Spam classifier** using NLP (97% accuracy)  
-- 🌍 **Translation web app** with external APIs + scoring logic  
-
-➡️ See pinned repositories below for details
-
----
-
-## 🌱 Currently
-- 📚 Studying Computer Science (Industrial Placement) at the University of Manchester  
-- 🧠 Learning how large systems are designed and scaled  
-- 🔧 Building projects outside coursework  
-
----
-
-## 🔗 Let’s Connect
-- 💼 LinkedIn → https://www.linkedin.com/in/leena-dany  
-- 🧑‍💻 GitHub → https://github.com/Leena26  
-
----
-
-<p align="center">
-  <i>Curious. Intentional. Always learning.</i>
-</p>
+Pinned repos below have the details — this page is just the front door.
